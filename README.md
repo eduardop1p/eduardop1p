@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Eduardo Lavoura
 
 - 🔭 Trabalho com Front-End e Back-End
-- 🌱 Estudando TypeScript
+- 🌱 Estudando TypeScript e compania
 - 📫 eduardop1p87@gmail.com
 - 📝 Veja abaixo algumas linguagens, frameworks e libs que ultilizo
 
