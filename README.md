@@ -3,7 +3,7 @@
 - 🔭 Trabalho com Front-End e Back-End
 - 🌱 Estudando TypeScript e compania
 - 📫 eduardop1p87@gmail.com
-- 📝 Veja abaixo algumas linguagens, frameworks e libs que ultilizo
+- 📝 Veja abaixo algumas linguagens, frameworks, libs e derramentas que ultilizo
 
 <div>
   <a href="https://github.com/eduardop1p"></a>
