@@ -30,7 +30,7 @@
   <img align="center" alt="Eduardo-Umbutu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img align="center" alt="Eduardo-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
-<br>
+<hr>
 
 <div>
   <a target="_blank" href="mailto:eduardop1p87@gmail.com">
