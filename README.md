@@ -3,6 +3,7 @@
 - 🔭 Trabalho com Front-End e Back-End
 - 🌱 Estudando TypeScript e compania
 - 📫 eduardop1p87@gmail.com
+- 📞 (99) 98532-9861
 - 📝 Veja abaixo algumas linguagens, frameworks, libs e ferramentas que ultilizo
 
 <div>
