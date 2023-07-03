@@ -1,4 +1,4 @@
-### Olá! Eu sou o Eduardo Lavoura
+### Olá! Me chamo Eduardo Lavoura
 
 - 🔭 Trabalho com Front-End e Back-End
 - 🌱 Estudando TypeScript e compania
