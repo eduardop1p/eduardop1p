@@ -4,7 +4,7 @@
 - 🌱 Sempre me atualizando
 - 📫 eduardop1p87@gmail.com
 - 📞 (99) 98532-9861
-- 📝 Veja abaixo algumas linguagens, frameworks, libs e ferramentas que ultilizo
+- 📝 Veja abaixo as principais tecnologias que utilizo
 
 <div>
   <a href="https://github.com/eduardop1p"></a>
