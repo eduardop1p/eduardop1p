@@ -54,6 +54,9 @@
 <hr>
 
 <div>
+  <a target="_blank" href="mailto:eduardop1p87@gmail.com" style="background-color:yellow;color:white;padding:0 16px;height:28px;">
+    MEU PORTFOLIO
+  </a>
   <a target="_blank" href="mailto:eduardop1p87@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
