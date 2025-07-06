@@ -2,8 +2,6 @@
 
 - 🔭 Trabalho com Front-End e Back-End
 - 🌱 Sempre me atualizando
-- 📫 eduardop1p87@gmail.com
-- 📞 (99) 98532-9861
 - 📝 Veja abaixo as principais tecnologias que utilizo
 
 <div>
